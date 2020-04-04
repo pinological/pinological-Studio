@@ -1,0 +1,129 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 0px;
+}
+.top{
+    background-color:rgb(14, 14, 14);
+    padding: 10px 20px;
+}
+.logo{
+    display: inline-block;
+}
+.banner{
+    margin-top: 40px;
+    float: left;
+}
+.nav{
+    margin-top: 40px;
+    display: inline-block;
+    float: right;
+}
+.fname{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    display: inline;
+    padding: 0px 5px;
+
+}
+.lname{
+    font-size: 30px;
+    font-weight: bold;
+    color: skyblue;
+    display: inline-block;
+    padding: 0px 5px;
+
+}
+.navv{
+    display: inline;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.cen{
+margin-left: 250px;
+
+}
+.navv:hover{
+    display: inline;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: white;
+}
+.navhop{
+     display: inline;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: white;
+}
+body{
+    background-color: black;
+}
+
+.imp{
+    margin: 20px 300px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0px;
+}
+.simptext{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+
+}
+.gallary{
+    padding-top: 30px;
+    background-color: rgb(5, 15, 20);
+    margin: 20px 200px;
+}
+.gall{
+    display: inline;
+    padding: 30px 40px;
+
+}
+.gall:hover{
+    display: inline;
+    padding: 30px 40px;
+    transform: scale(1.5);
+    
+}
+footer{
+    background-color:rgb(14, 14, 14);
+    padding: 30px 20px;
+}
+.fotter{
+    color: rgb(73, 73, 73);
+    font-size: 20px;
+    text-align: center;
+
+}
+.about{
+    background-color: rgb(47, 47, 47);
+    padding: 20px 10px;
+}
+.cont{
+    color: white;
+    background-color: brown;
+    padding: 20px 20px;
+    font-size: 30px;
+    text-align: center;
+    margin: 20px 30px;
+}
